@@ -1,1 +1,2 @@
-This is a test.
+![English](english.png)
+![Français](french.png)
